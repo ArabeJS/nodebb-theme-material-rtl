@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodebb-theme-material-rtl@2.11.4",
+        "scope": null,
+        "escapedName": "nodebb-theme-material-rtl",
+        "name": "nodebb-theme-material-rtl",
+        "rawSpec": "2.11.4",
+        "spec": "2.11.4",
+        "type": "version"
+      },
+      "C:\\Users\\raafe\\Desktop\\ngBlog-master\\NodeBB"
+    ]
+  ],
+  "_from": "nodebb-theme-material-rtl@2.11.4",
+  "_id": "nodebb-theme-material-rtl@2.11.4",
+  "_inCache": true,
+  "_location": "/nodebb-theme-material-rtl",
+  "_nodeVersion": "4.1.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nodebb-theme-material-rtl-2.11.4.tgz_1503598778326_0.7760779133532196"
+  },
+  "_npmUser": {
+    "name": "Raafet",
+    "email": "arabejs.ga@gmail.com"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodebb-theme-material-rtl@2.11.4",
+    "scope": null,
+    "escapedName": "nodebb-theme-material-rtl",
+    "name": "nodebb-theme-material-rtl",
+    "rawSpec": "2.11.4",
+    "spec": "2.11.4",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-material-rtl/-/nodebb-theme-material-rtl-2.11.4.tgz",
+  "_shasum": "9d23f13f60803210fb19014fd97d7f4eb67a85f6",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-theme-material-rtl@2.11.4",
+  "_where": "C:\\Users\\raafe\\Desktop\\ngBlog-master\\NodeBB",
+  "author": {
+    "name": "pichalite",
+    "email": "pichalite.com@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ArabeJS/nodebb-theme-material-rtl/issues"
+  },
+  "dependencies": {},
+  "description": "Material Design theme for NodeBB",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9d23f13f60803210fb19014fd97d7f4eb67a85f6",
+    "tarball": "https://registry.npmjs.org/nodebb-theme-material-rtl/-/nodebb-theme-material-rtl-2.11.4.tgz"
+  },
+  "gitHead": "8fce783bcd82caa7dccf8693f9652698188a3e90",
+  "homepage": "https://github.com/ArabeJS/nodebb-theme-material-rtl#readme",
+  "keywords": [
+    "nodebb",
+    "material",
+    "material design",
+    "theme",
+    "themes"
+  ],
+  "main": "theme.less",
+  "maintainers": [
+    {
+      "name": "pichalite",
+      "email": "pichalite.com@gmail.com"
+    }
+  ],
+  "name": "nodebb-theme-material-rtl",
+  "nbbpm": {
+    "compatibility": "^1.5.3"
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArabeJS/nodebb-theme-material-rtl.git"
+  },
+  "scripts": {},
+  "version": "2.11.4"
+}

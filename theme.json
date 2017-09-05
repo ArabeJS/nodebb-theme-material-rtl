@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-material-rtl",
+    "name": "Material Design RTL",
+    "description": "RTL Material Design Theme for NodeBB",
+    "url": "https://github.com/ArabeJS/nodebb-theme-material-rtl",
+    "screenshot": "screenshot.png"
+}
